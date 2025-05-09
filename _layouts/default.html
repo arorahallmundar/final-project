@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+
+      <!-- ✅ Add navigation buttons here -->
+      <a href="/" class="btn">Home</a>
+      <a href="/time" class="btn">Shootings by Time</a>
+      <a href="/location" class="btn">Where It Happens</a>
+      <a href="/demographics" class="btn">Who Is Involved</a>
+      <a href="/trends" class="btn">Trends</a>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+    </section>
+  </body>
+</html>
