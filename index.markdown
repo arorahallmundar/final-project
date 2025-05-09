@@ -2,8 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-title: Who Shoots Whom?
+layout: default
+title: "Who Shoots Whom?"
+permalink: /
 ---
 <div style="background-color: #d84c2e; color: white; padding: 20px; border-radius: 8px;">
   <h1 style="text-align: center;">Who Shoots Whom?</h1>
@@ -11,7 +12,7 @@ title: Who Shoots Whom?
 </div>
 
 <p>Welcome to our project page...</p>
-<a href="/time.markdown">See Time Analysis</a>
+<a href="/time">See Time Analysis</a>
 
 
 # Who Shoots Whom?  
