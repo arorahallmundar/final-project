@@ -6,10 +6,6 @@ layout: default
 title: "Who Shoots Whom?"
 permalink: /
 ---
-<div style="background-color: #d84c2e; color: white; padding: 20px; border-radius: 8px;">
-  <h1 style="text-align: center;">Who Shoots Whom?</h1>
-  <p style="text-align: center;">A Demographic Breakdown of Gun Violence in NYC</p>
-</div>
 
 <p>Welcome to our project page...</p>
 <a href="/time">See Time Analysis</a>
