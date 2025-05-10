@@ -18,7 +18,8 @@ Two boroughs stand out: **Brooklyn and the Bronx** consistently experience signi
 
 This disparity goes beyond population differences. It reflects long-standing inequalities in areas like income, housing stability, policing, and access to community resources. These underlying conditions contribute to a higher risk of violence - and a higher burden placed on certain communities.
 
-![Map of locations](/assets/boroughmap.html)
+<iframe src="/final-project/assets/boroughmap.html" width="100%" height="600" frameborder="0"></iframe>
+
 
 *Figure 3: Showing how shootings happen between boroughs*
 
@@ -32,7 +33,7 @@ This kind of view helps us understand how gun violence shifts throughout the day
 
 Where and when shootings happen go together and both are key to prevention.
 
-![Map of locations](/assets/hourlydensity.html)
+<iframe src="/final-project/assets/hourlydensity.html" width="100%" height="600" frameborder="0"></iframe>
 
 *Figure 3: LAGA TEXTANN*
 
@@ -52,7 +53,7 @@ By combining geography and age group, we gain a richer understanding of the *spa
 
 ![Map of locations](/assets/agemeetplace.png)
 
-*Figure 3: LAGA TEXTANN*
+*Figure 3: LAGA TEXTANN OG NY MYND!!!*
 
 ## Forecasting NYC Shootings with Machine Learning
 To go beyond visual analysis, we used a Ridge Regression model with 12 months of historical lag features to predict future shooting trends. We trained on historical monthly data and tested on the last 12 months. The model achieved a root mean squared error (RMSE) of 18.33 shootings.
