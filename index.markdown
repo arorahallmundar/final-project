@@ -7,84 +7,47 @@ title: "Who Shoots Whom?"
 permalink: /
 ---
 
-<p>Welcome to our project page...</p>
-<a href="/when">See Time Analysis</a>
+# Introduction
 
+Gun violence continues to impact communities across New York City, with thousands of shooting incidents reported over the past two decades. But beyond the raw numbers lies a deeper question: **Who is shooting whom and under what circumstances?**
 
-# Who Shoots Whom?  
-### A Demographic Breakdown of Gun Violence in NYC
+Are young men the primary perpetrators and victims? Do these incidents follow daily or seasonal rhythms? Are certain neighborhoods consistently more affected?
 
-Gun violence continues to affect thousands of lives in New York City — but **who is most involved**, and **how do these patterns take shape**?
+Gun violence has long been a central issue in the United States debated politically, studied socially, and felt personally. And in NYC, efforts to reduce shootings are ongoing. Programs like the [Office to Prevent Gun Violence](https://criminaljustice.cityofnewyork.us/programs/office-to-prevent-gun-violence/) work to address these issues on the ground but to prevent violence effectively, we also need to understand the patterns behind it.
 
-- Is there a typical profile for a victim or a perpetrator?  
-- Do these incidents happen at specific times?  
-- Are some boroughs hit harder than others?
+In this project, we dive into public NYPD shooting incident data to examine how gender, age, time, and location intersect in shaping the landscape of urban gun violence.
 
-These aren’t just statistics — they represent real people, neighborhoods, and communities.  
-Understanding the patterns behind violence can help inform **better prevention**, **smarter policy**, and **deeper public awareness**.
+Our guiding question is:  
+#### **"Who shoots whom in New York City - and how do patterns of age, gender, place, and time influence that dynamic?"**
 
-In this project, we dive into public NYPD data on shooting incidents to uncover how **gender**, **age**, **time**, and **location** intersect in shaping the landscape of gun violence in the city.
-
-We examine who is most at risk, when shootings tend to happen, and where incidents cluster — not to sensationalize, but to **see the structure beneath the chaos.**
-
-> Because when it comes to public safety, **the details matter.**
+Through interactive visualizations, we aim to go beyond headlines and uncover the underlying structure of these events  not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness.
 
 ---
 
-## About the Data
+##  Conclusion: Who Shoots Whom in NYC?
 
-The dataset comes from the [NYPD Shooting Incident Data (Historic)](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic), covering all recorded shootings in NYC from **2006 to 2023**.
+Throughout this project, we’ve taken a closer look at gun violence in New York City not just in terms of numbers, but the people, places, and patterns behind those numbers.
 
-Each entry contains:
-- **Date, time, and borough** of the incident
-- **Victim and perpetrator demographics** (age, sex, race)
-- **Weapon used** and **circumstances** of the shooting
+Our main question was simple but important:  
+**Who shoots whom in New York City - and how do patterns of age, gender, place, and time influence that dynamic?**
+### What We Found
+- **Men, especially young men aged 18–24, are central** to most shootings, as both perpetrators and victims.
+- **Male-on-male violence dominates the data**, showing that gun violence is often driven by interactions within one demographic group.
+- **Shootings happen mostly at night**, especially between 10 PM and 2 AM and this is especially true for younger age groups.
+- **Place matters**: the Bronx and Brooklyn see more incidents than other boroughs.
+- **There’s a seasonal rhythm**, with shootings peaking in the summer particularly among younger males.
+- **The COVID-19 pandemic disrupted previous trends** - shootings spiked in 2020 after years of decline.  
+  [Source: NYT, 2021](https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html)
 
-The data is compiled and reviewed quarterly by the NYPD Office of Management Analysis and Planning.
+These patterns show us that gun violence isn’t random. It follows rhythms, shaped by age, gender, time of day, the seasons, and where people live and move around. Understanding those patterns helps us ask better questions, and maybe even find better solutions.
 
----
+We used data, maps, and interactive charts to make the story more accessible, not just for researchers or policymakers, but for anyone who wants to understand what’s happening in their city. Because behind every data point is a person — and behind every pattern, a chance to change it.
 
-## Where Do Shootings Happen?
+To tie these findings together, we zoomed in on the group driving most of the incidents: males under 45. This includes both young perpetrators (<25) and adults aged 25–44, who together make up the bulk of gun-related activity in NYC.
 
-We'll begin by mapping the geographic spread of incidents to see where gun violence is most concentrated.
- *[Interactive map coming soon]*
+A closer look at when and where these incidents happen shows clear patterns, Brooklyn and the Bronx remain the key hotspots, and evenings through early mornings are when activity surges. The heatmap below illustrates how time and place combine to reveal where violence is most concentrated for these groups.
 
----
-
-## When Do Shootings Occur?
-
-Do shootings happen at certain times of the day or days of the week?  
-We explore temporal patterns that might reveal underlying behaviors or risks.
-
-*[Bar chart of shootings by hour/day coming soon]*
-
----
-
-## Who Are the Victims and Perpetrators?
-
-We break down the demographic data to examine:
-- Age and gender of victims
-- Age and gender of perpetrators
-- How these groups overlap — and how they change over time
-
-*[Demographic charts and analysis coming soon]*
-
----
-
-## How Has Gun Violence Changed Over Time?
-
-Has gun violence increased or decreased?  
-Are there notable spikes in particular years, such as 2020?
-
- *[Timeline chart coming soon]*
-
----
-
-## Why It Matters
-
-Understanding these patterns is about more than numbers — it's about uncovering the social dynamics behind public safety.  
-Our goal is not to simplify, but to visualize a complex issue with clarity, respect, and curiosity.
-
+This kind of insight goes beyond surface-level stats - it helps pinpoint where resources, outreach, and prevention efforts might be most effective.
 ---
 
 ## Credits & Sources
