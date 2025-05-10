@@ -13,7 +13,7 @@ One finding stood out immediately: **men are at the center of gun violence in Ne
 
 This trend isn’t unique to NYC. Nationwide data shows similar patterns: over 90% of homicide perpetrators and about 85% of victims are male ([Everytown Research, 2021](https://everytownresearch.org/report/guns-and-violence-against-women/)).
 
-The bar chart below makes this pattern immediately clear:
+The bar chart in Figure 1 makes this pattern immediately clear:
 ![Bar chart gender](/assets/fig1.png)
 
 *Figure 1: Gender Breakdown of Perpetrators and Victims !BREYTA Í NÝTT!*
@@ -23,13 +23,13 @@ To go a step further, we looked at **how the genders of shooters and victims int
 
 The heatmap below shows all shootings where both the perpetrator’s and the victim’s gender were recorded. One pattern immediately stands out: **most shootings involve men on both sides**.
 
-Incidents where men shoot other men are by far the most common. Female shooters are rare, and when they do, they are more likely to shoot male victims than female ones.
-
-This gives us a clearer picture: when gun violence happens in New York City, it's most often **men shooting other men**.
-
 ![Gender heatmap](/assets/gender.png)
 
 *Figure 2: Heatmap showing who shoots who in gender*
+
+Incidents where men shoot other men are by far the most common. Female shooters are rare, and when they do, they are more likely to shoot male victims than female ones.
+
+This gives us a clearer picture: when gun violence happens in New York City, it's most often **men shooting other men**.
 
 ### Age Patterns in Gun Violence
 
