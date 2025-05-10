@@ -33,7 +33,7 @@ We have structured this page in a simple "click-through" format to guide you thr
 
 ---
 
-##  Conclusion: Who Shoots Whom in NYC?
+## <a id="conclusions"></a> Conclusion: Who Shoots Whom in NYC?
 
 Throughout this project, we’ve taken a closer look at gun violence in New York City not just in terms of numbers, but the people, places, and patterns behind those numbers.
 

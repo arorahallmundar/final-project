@@ -55,19 +55,6 @@ By combining geography and age group, we gain a richer understanding of the *spa
 
 *Figure 3: LAGA TEXTANN OG NY MYND!!!*
 
-## Forecasting NYC Shootings with Machine Learning
-To go beyond visual analysis, we used a Ridge Regression model with 12 months of historical lag features to predict future shooting trends. We trained on historical monthly data and tested on the last 12 months. The model achieved a root mean squared error (RMSE) of 18.33 shootings.
-
-As shown in the plot:
-
-The black line shows actual data used for training.
-
-The blue line represents actual shootings during the test period.
-
-The red line represents the model's predicted values.
-
-While not perfect, this method captures key trends and could serve as a basis for early-warning systems or resource planning.
-
 
 ## Forecasting NYC Shootings with Machine Learning
 To go beyond visual trends, we applied a Ridge Regression model to forecast future shooting incidents in New York City. Ridge Regression is a linear model that includes regularization, which helps prevent overfitting, especially useful when dealing with highly correlated features like time lags.
@@ -93,3 +80,6 @@ This predictive modeling serves as a proof-of-concept that machine learning can 
 
 *Figure 3: LAGA TEXTANN*
 
+<p style="text-align: center;">
+  <a href="{{ '/#conclusions' | relative_url }}" class="btn">Continue to Conclusions</a>
+</p>
