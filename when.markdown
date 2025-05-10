@@ -27,7 +27,8 @@ In contrast, shootings involving women or older individuals are relatively rare 
 
 These timing patterns reflect deeper social dynamics, offering potential clues for more informed prevention efforts and community-based interventions
 
-![Bar chart gender](/assets/shootings_by_hour.html)
+<iframe src="/final-project/assets/shootings_by_hour.html" width="100%" height="600" frameborder="0"></iframe>
+
 
 *Figure 6: Shoing shootings by hour, the plot offers to select desired age groups*
 
@@ -54,7 +55,7 @@ The reasons likely include a combination of social and environmental factors: wa
 
 This cyclical pattern reinforces a broader point: gun violence in NYC isn’t just about who or where, but also about when. Timing shapes risk, and understanding these rhythms can support more effective and targeted responses.
 
-![Bar chart gender](/assets/seasonal.html)
+<iframe src="/final-project/assets/seasonal.html" width="100%" height="600" frameborder="0"></iframe>
 
 *Figure 7: The interactive plot above shows shootings by months and has filters for age groups and gender*
 
