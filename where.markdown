@@ -21,7 +21,7 @@ This disparity goes beyond population differences. It reflects long-standing ine
 <iframe src="/final-project/assets/boroughmap.html" width="100%" height="600" frameborder="0"></iframe>
 
 
-*Figure 3: Showing how shootings happen between boroughs*
+*Figure 8: Showing how shootings happen between boroughs*
 
 ## Hour-by-Hour: Mapping Shooting Density Over Time
 
@@ -35,7 +35,7 @@ Where and when shootings happen go together and both are key to prevention.
 
 <iframe src="/final-project/assets/hourlydensity.html" width="100%" height="600" frameborder="0"></iframe>
 
-*Figure 3: LAGA TEXTANN*
+*Figure 9: LAGA TEXTANN*
 
 ### Where Age Meets Place: Borough level Shooting Patterns
 
@@ -53,7 +53,7 @@ By combining geography and age group, we gain a richer understanding of the *spa
 
 ![Map of locations](/assets/agemeetplace.png)
 
-*Figure 3: LAGA TEXTANN OG NY MYND!!!*
+*Figure 10: LAGA TEXTANN OG NY MYND!!!*
 
 
 ## Forecasting NYC Shootings with Machine Learning
@@ -69,16 +69,14 @@ The model achieved a Root Mean Squared Error (RMSE) of 18.33 shootings, meaning 
 
 This approach could be a foundation for early warning systems, resource allocation, or policy planning in high-risk periods.
 
-*Visualization*
-In the plot:
+![Map of locations](/assets/machinelearn.png)
 
-The black line shows actual historical data used for training, the blue line shows actual values from the test period and the red line shows the model’s predictions for the same period.
+*Figure 11: LAGA TEXTANN*
+
+In **Figure 11** The black line shows actual historical data used for training, the blue line shows actual values from the test period and the red line shows the model’s predictions for the same period.
 
 This predictive modeling serves as a proof-of-concept that machine learning can contribute to understanding and potentially mitigating urban violence patterns over time.
 
-![Map of locations](/assets/machinelearn.png)
-
-*Figure 3: LAGA TEXTANN*
 
 <p style="text-align: center;">
   <a href="{{ '/#conclusions' | relative_url }}" style="padding: 10px 20px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 5px;">→ Continue to Conclusions</a>

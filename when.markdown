@@ -21,30 +21,28 @@ Together, these views help reveal the deeper structure of time in New York City�
 
 We begin with a breakdown of shootings by hour of day, separated by gender and age group of the perpetrator. This chart helps us understand how the city’s daily rhythm intersects with violent incidents.
 
+<iframe src="/final-project/assets/shootings_by_hour.html" width="100%" height="600" frameborder="0"></iframe>
+*Figure 5: Shoing shootings by hour, the plot offers to select desired age groups*
+
 One group dominates the late-night activity: young men aged 18–24. Their involvement in shootings peaks during the evening and early morning hours, aligning with times of increased social activity, reduced visibility, and greater exposure to risky environments.
 
 In contrast, shootings involving women or older individuals are relatively rare and show a much flatter distribution across the day. Their trends are not as tightly tied to nighttime hours, suggesting different social contexts and circumstances.
 
 These timing patterns reflect deeper social dynamics, offering potential clues for more informed prevention efforts and community-based interventions
 
-<iframe src="/final-project/assets/shootings_by_hour.html" width="100%" height="600" frameborder="0"></iframe>
-
-
-*Figure 6: Shoing shootings by hour, the plot offers to select desired age groups*
-
 ### Yearly trends
 
 Zooming out, we examine how gun violence has evolved over the last two decades. The chart below aggregates incidents per year and reveals a few striking patterns.
+
+![Bar chart gender](/assets/yearlytrends.png)
+
+*Figure 6: Showing yearly trends og shoo*
 
 Throughout much of the 2010s, shootings steadily declined - but then came an abrupt reversal in 2020, with a sharp spike during the first year of the COVID-19 pandemic.
 
 This jump wasn’t isolated to NYC. Cities across the U.S. experienced a similar trend, likely tied to pandemic-related stress, economic insecurity, and strained public institutions. In NYC, shootings surged by nearly 100% in 2020 compared to the year before, a rise widely documented in local and national media (New York Times, 2021).
 
 Even as other forms of crime remained low, gun violence soared - showing how external shocks can dramatically alter urban safety dynamics.
-
-![Bar chart gender](/assets/yearlytrends.png)
-
-*Figure 7: Showing yearly trends og shoo*
 
 ### Seasonal trends
 
