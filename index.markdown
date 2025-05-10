@@ -48,6 +48,7 @@ To tie these findings together, we zoomed in on the group driving most of the in
 A closer look at when and where these incidents happen shows clear patterns, Brooklyn and the Bronx remain the key hotspots, and evenings through early mornings are when activity surges. The heatmap below illustrates how time and place combine to reveal where violence is most concentrated for these groups.
 
 This kind of insight goes beyond surface-level stats - it helps pinpoint where resources, outreach, and prevention efforts might be most effective.
+
 ---
 
 ## Credits & Sources
