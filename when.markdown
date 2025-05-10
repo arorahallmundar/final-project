@@ -27,6 +27,35 @@ In contrast, shootings involving women or older individuals are relatively rare 
 
 These timing patterns reflect deeper social dynamics, offering potential clues for more informed prevention efforts and community-based interventions
 
-![Bar chart gender](/assets/fig1.png)
+![Bar chart gender](/assets/shootings_by_hour.html)
 
-*Figure 6: ADD CORRECT PICTURE*
+*Figure 6: Shoing shootings by hour, the plot offers to select desired age groups*
+
+### Yearly trends
+
+Zooming out, we examine how gun violence has evolved over the last two decades. The chart below aggregates incidents per year and reveals a few striking patterns.
+
+Throughout much of the 2010s, shootings steadily declined - but then came an abrupt reversal in 2020, with a sharp spike during the first year of the COVID-19 pandemic.
+
+This jump wasn’t isolated to NYC. Cities across the U.S. experienced a similar trend, likely tied to pandemic-related stress, economic insecurity, and strained public institutions. In NYC, shootings surged by nearly 100% in 2020 compared to the year before, a rise widely documented in local and national media (New York Times, 2021).
+
+Even as other forms of crime remained low, gun violence soared - showing how external shocks can dramatically alter urban safety dynamics.
+
+![Bar chart gender](/assets/yearlytrends.png)
+
+*Figure 7: Showing yearly trends og shoo*
+
+### Seasonal trends
+
+Lastly, we take a closer look at seasonality by examining the average number of shootings per month, again segmented by gender and age group.
+A clear pattern emerges: the summer months especially June, July, and August consistently experience the highest levels of gun violence. This spike is particularly pronounced among young male perpetrators.
+
+The reasons likely include a combination of social and environmental factors: warmer weather means more people are outside, schools are out, structured programs may be on pause, and tensions can escalate during longer, unstructured days.
+
+This cyclical pattern reinforces a broader point: gun violence in NYC isn’t just about who or where, but also about when. Timing shapes risk, and understanding these rhythms can support more effective and targeted responses.
+
+![Bar chart gender](/assets/seasonal.html)
+
+*Figure 7: The interactive plot above shows shootings by months and has filters for age groups and gender*
+
+
