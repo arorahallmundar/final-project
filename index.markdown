@@ -38,7 +38,7 @@ We have structured this page in a simple "click-through" format to guide you thr
 Throughout this project, we’ve taken a closer look at gun violence in New York City not just in terms of numbers, but the people, places, and patterns behind those numbers.
 
 Our main question was simple but important:  
-**Who shoots whom in New York City - and how do patterns of age, gender, place, and time influence that dynamic?**
+**Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?**
 ### What We Found
 - **Men, especially young men aged 18–24, are central** to most shootings, as both perpetrators and victims.
 - **Male-on-male violence dominates the data**, showing that gun violence is often driven by interactions within one demographic group.

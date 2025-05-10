@@ -7,7 +7,7 @@ permalink: /who
 ## Who is Involved?
 
 ### Gender breakdown
-To begin answering our main research question **Who shoots whom?** we started by looking at one of the most visible factors: gender.
+To begin answering our main research question **"Who shoots whom?"** we started by looking at one of the most visible factors: gender.
 
 One finding stood out immediately: **men are at the center of gun violence in New York City.** They make up the vast majority of both victims and shooters. While women do appear in the data, they are far less frequently involved, and typically as victims rather than perpetrators.
 
@@ -16,7 +16,7 @@ This trend isn’t unique to NYC. Nationwide data shows similar patterns: over 9
 The bar chart below makes this pattern immediately clear:
 ![Bar chart gender](/assets/fig1.png)
 
-*Figure 1: Gender Breakdown of Perpetrators and Victims*
+*Figure 1: Gender Breakdown of Perpetrators and Victims !BREYTA Í NÝTT!*
 
 ### Gender patterns
 To go a step further, we looked at **how the genders of shooters and victims interact**.
