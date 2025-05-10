@@ -29,4 +29,4 @@ These timing patterns reflect deeper social dynamics, offering potential clues f
 
 ![Bar chart gender](/assets/fig1.png)
 
-*Figure 6: Gender Breakdown of Perpetrators and Victims*
+*Figure 6: ADD CORRECT PICTURE*
