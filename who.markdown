@@ -14,3 +14,6 @@ One finding stood out immediately: **men are at the center of gun violence in Ne
 This trend isn’t unique to NYC. Nationwide data shows similar patterns: over 90% of homicide perpetrators and about 85% of victims are male ([Everytown Research, 2021](https://everytownresearch.org/report/guns-and-violence-against-women/)).
 
 The bar chart below makes this pattern immediately clear:
+![Time series chart](/assets/fig1.png)
+
+*Figure 1: Gender Breakdown of Perpetrators and Victims*
