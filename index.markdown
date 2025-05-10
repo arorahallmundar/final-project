@@ -8,7 +8,7 @@ permalink: /
 ---
 
 <p>Welcome to our project page...</p>
-<a href="/time">See Time Analysis</a>
+<a href="/when">See Time Analysis</a>
 
 
 # Who Shoots Whom?  

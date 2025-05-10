@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Shootings by Time"
-permalink: /time
+permalink: /when
 ---
 
 <h2>When Do Shootings Happen?</h2>
