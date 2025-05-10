@@ -81,5 +81,6 @@ This predictive modeling serves as a proof-of-concept that machine learning can 
 *Figure 3: LAGA TEXTANN*
 
 <p style="text-align: center;">
-  <a href="{{ '/#conclusions' | relative_url }}" class="btn">Continue to Conclusions</a>
+  <a href="{{ '/#conclusions' | relative_url }}" style="padding: 10px 20px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 5px;">→ Continue to Conclusions</a>
 </p>
+

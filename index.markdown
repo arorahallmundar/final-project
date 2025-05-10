@@ -18,7 +18,7 @@ Gun violence has long been a central issue in the United States debated politica
 In this project, we dive into public NYPD shooting incident data to examine how gender, age, time, and location intersect in shaping the landscape of urban gun violence.
 
 Our guiding question is:  
-#### **"Who shoots whom in New York City - and how do patterns of age, gender, place, and time influence that dynamic?"**
+#### **"Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?"**
 
 Through interactive visualizations, we aim to go beyond headlines and uncover the underlying structure of these events  not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness.
 
