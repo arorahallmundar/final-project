@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trends Over Time
-permalink: /trends/
+permalink: /where
 ---
 
 ## Trends Over Time
