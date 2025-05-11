@@ -21,7 +21,7 @@ This disparity goes beyond population differences. It reflects long-standing ine
 <iframe src="/final-project/assets/boroughmap.html" width="100%" height="600" frameborder="0"></iframe>
 
 
-*Figure 8: Showing how shootings happen between boroughs*
+*Figure 8: This animated heatmap visualizes the density of shootings by hour and location across NYC. Darker red areas indicate higher concentrations. Hover over each borough to see the total number of shooting incidents recorded there.*
 
 ## Hour-by-Hour: Mapping Shooting Density Over Time
 
@@ -35,7 +35,8 @@ Where and when shootings happen go together and both are key to prevention.
 
 <iframe src="/final-project/assets/hourlydensity.html" width="100%" height="600" frameborder="0"></iframe>
 
-*Figure 9: LAGA TEXTANN*
+*Figure 9: This animated heatmap shows how shooting density changes throughout a 24-hour cycle across NYC. Darker red areas indicate higher concentrations. Watch how intensity shifts by hour, and use the timeline to pause or scrub through different times of day*
+
 
 ### Where Age Meets Place: Borough level Shooting Patterns
 
@@ -53,27 +54,27 @@ By combining geography and age group, we gain a richer understanding of the *spa
 
 ![Map of locations](/assets/agemeetplace.png)
 
-*Figure 10: LAGA TEXTANN OG NY MYND!!!*
+*Figure 10: This set of boxplots shows the yearly distribution of shootings for different age groups in each borough. Each box summarizes the range and spread of shootings within a group, compare across boroughs to spot differences in patterns*
 
 
 ## Forecasting NYC Shootings with Machine Learning
 To go beyond visual trends, we applied a Ridge Regression model to forecast future shooting incidents in New York City. Ridge Regression is a linear model that includes regularization, which helps prevent overfitting, especially useful when dealing with highly correlated features like time lags.
 
 *How the Model Works*
+
 We transformed the raw data into a monthly time series and engineered 12 lag features, meaning the model uses the number of shootings in the previous 12 months to predict the next one. This method enables the model to learn temporal patterns such as seasonality or year-over-year trends.
 
 We trained the model on historical monthly data and reserved the most recent 12 months as a test set. The model was implemented using a pipeline that includes feature scaling and Ridge Regression.
 
 *Performance and Insights*
-The model achieved a Root Mean Squared Error (RMSE) of 18.33 shootings, meaning that on average, its monthly prediction was off by about 18 incidents. While not perfect, the model captures major fluctuations and overall directional trends.
+
+The model achieved a Root Mean Squared Error (RMSE) of 10.94 shootings, meaning that on average, its monthly prediction was off by about 11 incidents. While not perfect, the model captures major fluctuations and overall directional trends.
 
 This approach could be a foundation for early warning systems, resource allocation, or policy planning in high-risk periods.
 
 ![Map of locations](/assets/machinelearn.png)
 
-*Figure 11: LAGA TEXTANN*
-
-In **Figure 11** The black line shows actual historical data used for training, the blue line shows actual values from the test period and the red line shows the model’s predictions for the same period.
+*Figure 11: A machine learning forecast of monthly shootings in NYC using Ridge Regression. The black line shows the training data (actual historical data), blue indicates actual shootings from the test period, and red shows the model's predictions for the same period.*
 
 This predictive modeling serves as a proof-of-concept that machine learning can contribute to understanding and potentially mitigating urban violence patterns over time.
 
