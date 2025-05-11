@@ -40,8 +40,12 @@ Throughout this project, we’ve taken a closer look at gun violence in New York
 Our main question was simple but important:  
 **Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?**
 ### What We Found
-- **Men, especially young men aged 18–24, are central** to most shootings, as both perpetrators and victims.
-- **Male-on-male violence dominates the data**, showing that gun violence is often driven by interactions within one demographic group.
+
+- **Men are at the center of gun violence in NYC**, making up over **95% of identified shooters** and nearly **90% of victims** in the data. This means that when a shooting occurs, it is almost always a man pulling the trigger, and usually, a man on the receiving end.
+- The most frequent dynamic is **male-on-male violence**, highlighting that the issue is largely concentrated within a specific demographic group.
+- The two dominant age groups are **18–24** and **25–44**. These groups are nearly equal in size and together they account for approximately **80% of all perpetrators** and around **75% of victims**. This reinforces the pattern of peer-to-peer gun violence among young adult men in NYC.
+
+
 - **Shootings happen mostly at night**, especially between 10 PM and 2 AM and this is especially true for younger age groups.
 - **Place matters**: the Bronx and Brooklyn see more incidents than other boroughs.
 - **There’s a seasonal rhythm**, with shootings peaking in the summer particularly among younger males.
@@ -56,11 +60,11 @@ To tie these findings together, we zoomed in on the group driving most of the in
 
 <iframe src="/final-project/assets/youngmalelocate.html" width="100%" height="600" frameborder="0"></iframe>
 
-**Figure 12:** **
+**Figure 12:** *This interactive heatmap shows the density of shootings involving young male perpetrators under 45, across both time of day and borough. Use the color scale to interpret intensity, darker areas indicate more incidents. Hovering over the chart reveals the exact number of incidents and the corresponding hour. This view combines age, time, and location into one visualization, helping uncover where and when violence is most concentrated in the relevant age group.*
 
 A closer look at when and where these incidents happen shows clear patterns, Brooklyn and the Bronx remain the key hotspots, and evenings through early mornings are when activity surges. The heatmap below illustrates how time and place combine to reveal where violence is most concentrated for these groups.
 
-This kind of insight goes beyond surface-level stats - it helps pinpoint where resources, outreach, and prevention efforts might be most effective.
+This kind of insight goes beyond surface-level stats, it helps pinpoint where resources, outreach, and prevention efforts might be most effective.
 
 ---
 
