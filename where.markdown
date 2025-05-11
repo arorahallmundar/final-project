@@ -57,3 +57,7 @@ By combining geography and age group, we gain a richer understanding of the *spa
 **Figure 11:** *This set of boxplots shows the yearly distribution of shootings for different age groups in each borough. Each box summarizes the range and spread of shootings within a group, compare across boroughs to spot differences in patterns*
 
 
+<p style="text-align: center;">
+  <a href="{{ '/#conclusions' | relative_url }}" style="padding: 10px 20px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 5px;">→ Continue to Conclusions</a>
+</p>
+
