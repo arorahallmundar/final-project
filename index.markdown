@@ -25,9 +25,11 @@ Through interactive visualizations, we aim to go beyond headlines and uncover th
 ---
 ## Navigating through the website!
 We have structured this page in a simple "click-through" format to guide you through it. When you have read through the introduction, simply click on each navigation button at the top of this webpage in correct order and you will follow our data story.
-- 1. **Who** First we will look into the demographics of the shooters and victims 
-- 2. **When** Next we take a look at the shootings by time
-- 3. **Where** Last category that we will look into is the location of the shootings (3. Where)
+
+**Overview**
+1. **Who** First we will look into the demographics of the shooters and victims 
+2. **When** Next we take a look at the shootings by time
+3. **Where** Last category that we will look into is the location of the shootings (3. Where)
 - Finally the page will take you to the Conclusions section where we will go over what we learned through this project
 
 ---
