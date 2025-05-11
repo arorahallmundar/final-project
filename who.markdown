@@ -9,14 +9,17 @@ permalink: /who
 ### Gender breakdown
 To begin answering our main research question **"Who shoots whom?"** we started by looking at one of the most visible factors: gender.
 
-One finding stood out immediately: **men are at the center of gun violence in New York City.** They make up the vast majority of both victims and shooters. While women do appear in the data, they are far less frequently involved, and typically as victims rather than perpetrators.
 
-This trend isn’t unique to NYC. Nationwide data shows similar patterns: over 90% of homicide perpetrators and about 85% of victims are male ([Everytown Research, 2021](https://everytownresearch.org/report/guns-and-violence-against-women/)).
+**Figure 1** shows that men are overwhelmingly central to gun violence in New York City. They make up the vast majority of both shooters and victims. While women do appear in the data, they are far less frequently involved, and when they are, it is most often as victims rather than perpetrators.
 
-The bar chart in **Figure 1** makes this pattern immediately clear:
-![Bar chart gender](/assets/fig1.png)
+<iframe src="/final-project/assets/boke_plot.html" width="100%" height="600" frameborder="0"></iframe>
 
-**Figure 1:** *!BREYTA Í NÝTT! Bar chart showing the gender distribution of perpetrators and victims. It shows the total number of incidents involving male and female shooters and victims. The height of the bars represents how often each gender is involved in shootings.*
+**Figure 1:** *Interactive Bokeh bar chart showing the number of shooting incidents by gender, role (perpetrator or victim), and age group. Each bar represents the count of incidents involving people from that group. Use the legend in the upper-left corner to select or de-select age groups, and compare how different age ranges contribute to each gender-role category*
+
+This trend is not unique to New York. National statistics show a similar pattern, with over 90 percent of homicideperpetrators and about 85 percent of victims are male ([Everytown Research, 2021](https://everytownresearch.org/report/guns-and-violence-against-women/)).
+
+The bar chart in **Figure 1** illustrates this clearly. It breaks down incidents by gender, role, and age group, showing that young men between the ages of 18 and 44 are especially overrepresented among both victims and perpetrators.
+
 
 ### Gender patterns
 To go a step further, we looked at **how the genders of shooters and victims interact**.
