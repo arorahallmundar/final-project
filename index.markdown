@@ -15,7 +15,7 @@ Are young men the primary perpetrators and victims? Do these incidents follow da
 
 Gun violence has long been a central issue in the United States debated politically, studied socially, and felt personally. And in NYC, efforts to reduce shootings are ongoing. Programs like the [Office to Prevent Gun Violence](https://criminaljustice.cityofnewyork.us/programs/office-to-prevent-gun-violence/) work to address these issues on the ground but to prevent violence effectively, we also need to understand the patterns behind it.
 
-In this project, we dive into public NYPD shooting incident data to examine how gender, age, time, and location intersect in shaping the landscape of urban gun violence.
+In this project, we dive into public NYPD shooting incident data, containing information about shootings in NYC from 2006-2024 to examine how gender, age, time, and location intersect in shaping the landscape of urban gun violence.
 
 Our guiding question is:  
 #### **"Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?"**
