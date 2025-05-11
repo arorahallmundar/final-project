@@ -53,7 +53,7 @@ The reasons likely include a combination of social and environmental factors: wa
 
 This cyclical pattern reinforces a broader point: gun violence in NYC isn’t just about who or where, but also about when. Timing shapes risk, and understanding these rhythms can support more effective and targeted responses.
 
-<iframe src="/final-project/assets/seasonal.html" width="100%" height="100%" frameborder="0"></iframe>
+<iframe src="/final-project/assets/seasonal.html" width="100%" height="800" frameborder="0"></iframe>
 
 *Figure 7: This interactive visualization highlights average monthly shootings, broken down by age and gender of the perpetrator. Use the dropdown and/or legend to filter and explore patterns for different groups.*
 
