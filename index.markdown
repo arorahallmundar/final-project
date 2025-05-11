@@ -44,7 +44,7 @@ Our main question was simple but important:
 
 - **Men are at the center of gun violence in NYC**, making up over **95% of identified shooters** and nearly **90% of victims** in the data. This means that when a shooting occurs, it is almost always a man pulling the trigger, and usually, a man on the receiving end.
 - The most frequent dynamic is **male-on-male violence**, highlighting that the issue is largely concentrated within a specific demographic group.
-- The two dominant age groups are **18–24** and **25–44**. These groups are nearly equal in size and together they account for approximately **80% of all perpetrators** and around **75% of victims**. This reinforces the pattern of peer-to-peer gun violence among young adult men in NYC.
+- The two largest age groups are **18–24** and **25–44**. These groups are nearly equal in size and together they account for approximately **80% of all perpetrators** and around **75% of victims**. This reinforces the pattern of peer-to-peer gun violence among young adult men in NYC.
 
 
 - **Shootings happen mostly at night**, especially between 10 PM and 2 AM and this is especially true for younger age groups.
@@ -71,8 +71,12 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 
 ## Credits & Sources
 
-**Data source:**  
-[NYPD Shooting Incident Data (Historic)](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic)
+# References
+
+1. New York Police Department. *Shooting Incident Data (Historic)*. NYC Open Data. [https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic)
+2. New York Times (2021). *Shootings in NYC Doubled in 2020*. [https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html](https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html)
+3. Everytown for Gun Safety (2021). *Guns and Violence Against Women*. [https://everytownresearch.org/report/guns-and-violence-against-women/](https://everytownresearch.org/report/guns-and-violence-against-women/)
+
 
 **Team Members:**  
 - Áróra Hallmundardóttir  
