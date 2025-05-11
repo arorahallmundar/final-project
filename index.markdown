@@ -13,25 +13,25 @@ Gun violence continues to impact communities across New York City, with thousand
 
 Are young men the primary perpetrators and victims? Do these incidents follow daily or seasonal rhythms? Are certain neighborhoods consistently more affected?
 
-Gun violence has long been a central issue in the United States debated politically, studied socially, and felt personally. And in NYC, efforts to reduce shootings are ongoing. Programs like the [Office to Prevent Gun Violence](https://criminaljustice.cityofnewyork.us/programs/office-to-prevent-gun-violence/), work to address these issues on the ground but to prevent violence effectively, we also need to understand the patterns behind it.
+Gun violence has long been a central issue in the United States, debated politically, studied socially, and felt personally. And in NYC, efforts to reduce shootings are ongoing. Programs like the [Office to Prevent Gun Violence](https://criminaljustice.cityofnewyork.us/programs/office-to-prevent-gun-violence/) work to address these issues on the ground. However, to prevent violence effectively, we also need to understand the patterns behind it.
 
-In this project, we dive into public [NYPD shooting incident data](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic), containing information about shootings in NYC from 2006-2024 to examine how gender, age, time, and location intersect in shaping the landscape of urban gun violence.
+In this project, we dive into public [NYPD shooting incident data](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic), containing information about shootings in NYC from 2006-2024, to examine how gender, age, time, and location intersect in shaping the landscape of urban gun violence.
 
-Our guiding question is:  
-#### **"Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?"**
+Our guiding question is:
+#### **“Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?”**
 
-Through interactive visualizations, we aim to go beyond headlines and uncover the underlying structure of these events not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness. For more behind the scenes of the development of this data story, please see our [explainer Jupyter Notebook]()
+Through all sorts of visualizations, we aim to go beyond headlines and uncover the underlying structure of these events, not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness. For more behind the scenes of the development of this data story, please see our [explainer Jupyter Notebook]()
 
 ---
 ## Navigating through the website
 We have structured this page in a simple "click-through" format to guide you through it. When you have read through the introduction, simply click on each navigation button at the top of this webpage in correct order and you will follow our data story.
 
 **Overview**
-1. **Who** First we will look into the demographics of the shooters and victims 
-2. **When** Next we take a look at the shootings by time
-3. **Where** Last category that we will look into is the location of the shootings 
+1. **Who:** First, we will look into the demographics of the shooters and victims 
+2. **When:** Next, we take a look at the shootings by time
+3. **Where:** Last category that we will look into is the location of the shootings 
 
-- Finally the page will take you to the Conclusions section where we will go over what we learned through this project
+- Finally, the page will take you to the conclusion section, where we will cover what we learned through this project. For those who are too curious to navigate each chapter, the conclusion can also be found below.
 
 ---
 

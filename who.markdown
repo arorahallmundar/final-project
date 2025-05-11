@@ -39,7 +39,7 @@ This gives us a clearer picture: when gun violence happens in New York City, it'
 Beyond gender, age plays a major role in shaping who gets involved in shootings. 
 The chart below breaks down the relationship between perpetrators and victims across age groups, showing whether violence tends to happen within or across generations.
 
-What stands out is a clear age mirroring effect: younger individuals, especially those aged 18–24 and 25–44, are both the most common perpetrators and the most frequent victims. This suggests that gun violence in NYC is often peer-to-peer rather than cross-generational.
+What stands out is a clear age mirroring effect: younger individuals, especially those aged 18–24 and 25–44, are both the most common perpetrators and the most frequent victims. This suggests that gun violence in NYC often occurs between individuals of similar age, rather than across generational lines.
 
 The heatmap in **Figure 3** below lets you explore how each age group is involved on both sides of the incident.
 
@@ -55,12 +55,11 @@ To get a fuller view of the dynamics behind gun violence, we combined both gende
 
 **Figure 4:** *This chart combines age and gender for both shooter and victim, showing the full demographic breakdown of shootings. Each row shows a specific group of shooters (e.g., “Male 18–24”), and each column shows a victim group.*
 
-Each row represents a specific shooter group, while each column shows the corresponding victim group. This lets us see not just who is involved, but who is shooting whom, across every demographic.
+Each row in the chart represents a group of perpetrators, and each column shows their victims. This allows us to see not just who is involved, but who is shooting whom across different age groups.
 
-One trend becomes unmistakably clear: the vast majority of shootings are carried out by young men targeting other young men. In particular, males aged 18–44 are both the most active perpetrators and the most frequent victims. In contrast, incidents involving women - either as shooters or victims remain relatively rare.
+One pattern is immediately clear: Men between the ages of 18 and 44 are the most frequent perpetrators and also the most common victims. By contrast, women appear far less often in the data, whether as perpetrators or victims.
 
-This chart brings the central pattern of NYC gun violence into sharp focus:
-It is overwhelmingly concentrated within a small and specific demographic.
+This chart brings the central pattern of NYC gun violence into sharp focus: It is concentrated within a small and specific demographic.
 
 
 
