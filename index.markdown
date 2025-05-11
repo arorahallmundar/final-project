@@ -52,7 +52,11 @@ These patterns show us that gun violence isn’t random. It follows rhythms, sha
 
 We used data, maps, and interactive charts to make the story more accessible, not just for researchers or policymakers, but for anyone who wants to understand what’s happening in their city. Because behind every data point is a person — and behind every pattern, a chance to change it.
 
-To tie these findings together, we zoomed in on the group driving most of the incidents: males under 45. This includes both young perpetrators (<25) and adults aged 25–44, who together make up the bulk of gun-related activity in NYC.
+To tie these findings together, we zoomed in on the group driving most of the incidents: males under 45, **Figure 12** below illustrates this comparison. This includes both young perpetrators (<25) and adults aged 25–44, who together make up the bulk of gun-related activity in NYC.
+
+<iframe src="/final-project/assets/youngmalelocate.html" width="100%" height="600" frameborder="0"></iframe>
+
+**Figure 12:** **
 
 A closer look at when and where these incidents happen shows clear patterns, Brooklyn and the Bronx remain the key hotspots, and evenings through early mornings are when activity surges. The heatmap below illustrates how time and place combine to reveal where violence is most concentrated for these groups.
 
