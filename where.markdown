@@ -50,7 +50,7 @@ This visualization offers several key insights:
 - **Manhattan** and **Queens** show lower, more stable counts across all age groups, suggesting fewer high-risk incidents.
 - **Staten Island** consistently reports the fewest shootings across all groups, reinforcing its position as the least affected borough.
 
-By combining geography and age group, we gain a richer understanding of the *spatial dimensions* of gun violence—helping to inform more targeted interventions where they are needed most.
+By combining geography and age group, we gain a richer understanding of the *spatial dimensions* of gun violence - helping to inform more targeted interventions where they are needed most.
 
 ![Map of locations](/assets/agemeetplace.png)
 
