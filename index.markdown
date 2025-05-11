@@ -23,7 +23,7 @@ Our guiding question is:
 Through interactive visualizations, we aim to go beyond headlines and uncover the underlying structure of these events  not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness.
 
 ---
-## Navigating through the website
+## Navigating through the website!
 We have structured this page in a simple "click-through" format to guide you through it. 
 - When you have read through the introduction, simply click on each navigation button at the top of this webpage in correct order and you will follow our data story.
 - First we will look into the demographics of the shooters and victims (1. Who)

@@ -11,9 +11,14 @@
 
 .project-name,
 .project-tagline {
-  color: white;
+  color: white !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #660000 !important; // override theme green with red
-  }
+main h1, 
+main h2, 
+main h3, 
+main h4, 
+main h5, 
+main h6 {
+  color: #660000 !important;
+}
