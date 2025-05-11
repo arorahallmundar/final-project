@@ -13,10 +13,10 @@ One finding stood out immediately: **men are at the center of gun violence in Ne
 
 This trend isn’t unique to NYC. Nationwide data shows similar patterns: over 90% of homicide perpetrators and about 85% of victims are male ([Everytown Research, 2021](https://everytownresearch.org/report/guns-and-violence-against-women/)).
 
-The bar chart in Figure 1 makes this pattern immediately clear:
+The bar chart in **Figure 1** makes this pattern immediately clear:
 ![Bar chart gender](/assets/fig1.png)
 
-*Figure 1: Gender Breakdown of Perpetrators and Victims !BREYTA Í NÝTT!*
+*Figure 1: !BREYTA Í NÝTT! Bar chart showing the gender distribution of perpetrators and victims. It shows the total number of incidents involving male and female shooters and victims. The height of the bars represents how often each gender is involved in shootings.*
 
 ### Gender patterns
 To go a step further, we looked at **how the genders of shooters and victims interact**.
@@ -25,7 +25,7 @@ The heatmap below shows all shootings where both the perpetrator’s and the vic
 
 ![Gender heatmap](/assets/gender.png)
 
-*Figure 2: Heatmap showing who shoots who in gender*
+*Figure 2: Gender-based heatmap of shooter and victim relationships. This heatmap breaks down shootings by the gender of both shooter and victim. The darker the color, the more frequent the combination.*
 
 Incidents where men shoot other men are by far the most common. Female shooters are rare, and when they do, they are more likely to shoot male victims than female ones.
 
@@ -38,11 +38,11 @@ The chart below breaks down the relationship between perpetrators and victims ac
 
 What stands out is a clear age mirroring effect: younger individuals, especially those aged 18–24 and 25–44, are both the most common perpetrators and the most frequent victims. This suggests that gun violence in NYC is often peer-to-peer rather than cross-generational.
 
-The heatmap below lets you explore how each age group is involved on both sides of the incident.
+The heatmap in **Figure 3** below lets you explore how each age group is involved on both sides of the incident.
 
 ![Age heatmap](/assets/agegroup.png)
 
-*Figure 3: Heatmap showing who shoots who in age groups*
+*Figure 3: Heatmap showing the relationship between shooter and victim age groups. Along the side are shooter age groups, and along the bottom are victim age groups. Each square shows how many incidents involve those two groups.*
 
 
 ### Putting It All Together
@@ -57,5 +57,5 @@ It is overwhelmingly concentrated within a small and specific demographic.
 
 ![Combined heatmap](/assets/combineddynamics.png)
 
-*Figure 4: Heatmap showing who shoots who in full demographic*
+*Figure 4: This chart combines age and gender for both shooter and victim, showing the full demographic breakdown of shootings. Each row shows a specific group of shooters (e.g., “Male 18–24”), and each column shows a victim group.*
 

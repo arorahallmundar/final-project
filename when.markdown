@@ -22,7 +22,7 @@ Together, these views help reveal the deeper structure of time in New York City�
 We begin with a breakdown of shootings by hour of day, separated by gender and age group of the perpetrator. This chart helps us understand how the city’s daily rhythm intersects with violent incidents.
 
 <iframe src="/final-project/assets/shootings_by_hour.html" width="100%" height="600" frameborder="0"></iframe>
-*Figure 5: Shoing shootings by hour, the plot offers to select desired age groups*
+*Figure 5: This interactive chart shows the number of shootings by hour of the day, filtered by the perpetrator’s gender and age group. Use the legend in the upper-right corner to click on specific age groups to select/deselect them.*
 
 One group dominates the late-night activity: young men aged 18–24. Their involvement in shootings peaks during the evening and early morning hours, aligning with times of increased social activity, reduced visibility, and greater exposure to risky environments.
 
@@ -36,7 +36,7 @@ Zooming out, we examine how gun violence has evolved over the last two decades. 
 
 ![Bar chart gender](/assets/yearlytrends.png)
 
-*Figure 6: Showing yearly trends og shoo*
+*Figure 6: This bar chart displays the total number of shooting incidents each year, with a dotted line capturing the overall trend. You can also see a vertical line marking the beginning of COVID-19 in 2020*
 
 Throughout much of the 2010s, shootings steadily declined - but then came an abrupt reversal in 2020, with a sharp spike during the first year of the COVID-19 pandemic.
 
@@ -55,6 +55,6 @@ This cyclical pattern reinforces a broader point: gun violence in NYC isn’t ju
 
 <iframe src="/final-project/assets/seasonal.html" width="100%" height="600" frameborder="0"></iframe>
 
-*Figure 7: The interactive plot above shows shootings by months and has filters for age groups and gender*
+*Figure 7: This interactive visualization highlights average monthly shootings, broken down by age and gender of the perpetrator. Use the dropdown and/or legend to filter and explore patterns for different groups.*
 
 
