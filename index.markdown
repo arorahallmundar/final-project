@@ -13,14 +13,14 @@ Gun violence continues to impact communities across New York City, with thousand
 
 Are young men the primary perpetrators and victims? Do these incidents follow daily or seasonal rhythms? Are certain neighborhoods consistently more affected?
 
-Gun violence has long been a central issue in the United States debated politically, studied socially, and felt personally. And in NYC, efforts to reduce shootings are ongoing. Programs like the [Office to Prevent Gun Violence](https://criminaljustice.cityofnewyork.us/programs/office-to-prevent-gun-violence/) work to address these issues on the ground but to prevent violence effectively, we also need to understand the patterns behind it.
+Gun violence has long been a central issue in the United States debated politically, studied socially, and felt personally. And in NYC, efforts to reduce shootings are ongoing. Programs like the [Office to Prevent Gun Violence](https://criminaljustice.cityofnewyork.us/programs/office-to-prevent-gun-violence/), work to address these issues on the ground but to prevent violence effectively, we also need to understand the patterns behind it.
 
 In this project, we dive into public NYPD shooting incident data, containing information about shootings in NYC from 2006-2024 to examine how gender, age, time, and location intersect in shaping the landscape of urban gun violence.
 
 Our guiding question is:  
 #### **"Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?"**
 
-Through interactive visualizations, we aim to go beyond headlines and uncover the underlying structure of these events  not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness.
+Through interactive visualizations, we aim to go beyond headlines and uncover the underlying structure of these events not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness. For more behind the scenes of the development of this data story, please see our [explainer Jupyter Notebook]()
 
 ---
 ## Navigating through the website
@@ -71,15 +71,15 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 
 ## Credits & Sources
 
-# References
+### References
 
 1. New York Police Department. *Shooting Incident Data (Historic)*. NYC Open Data. [https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic)
 2. New York Times (2021). *Shootings in NYC Doubled in 2020*. [https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html](https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html)
 3. Everytown for Gun Safety (2021). *Guns and Violence Against Women*. [https://everytownresearch.org/report/guns-and-violence-against-women/](https://everytownresearch.org/report/guns-and-violence-against-women/)
 
 
-**Team Members:**  
-- Áróra Hallmundardóttir  
+### Team members
+- Áróra Hallmundardóttir, s242693
 - Nanna Kristín Bjarnadóttir
 - Tinna Sól Björvinsdóttir
 
