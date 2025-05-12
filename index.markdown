@@ -20,7 +20,7 @@ In this project, we dive into public [NYPD shooting incident data](https://data.
 Our guiding question is:
 #### **“Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?”**
 
-Through all sorts of visualizations, we aim to go beyond headlines and uncover the underlying structure of these events, not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness. For more behind the scenes of the development of this data story, please see our [explainer Jupyter Notebook]()
+Through all sorts of visualizations, we aim to go beyond headlines and uncover the underlying structure of these events, not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness. For more behind the scenes of the development of this data story, please see our [explainer Jupyter Notebook](https://nbviewer.org/github/arorahallmundar/final-project/blob/d9a3ac8fd99d847a909916bf48082b6aacf1e597/ExplainerNotebook.ipynb)
 
 ---
 ## Navigating through the website
@@ -88,7 +88,7 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 - Nanna Kristín Bjarnadóttir - s243949
 - Tinna Sól Björvinsdóttir - s242744
 
-**Notebook:** [Link to Jupyter Notebook coming soon]
+**Notebook:** [Link to Jupyter Notebook]((https://nbviewer.org/github/arorahallmundar/final-project/blob/d9a3ac8fd99d847a909916bf48082b6aacf1e597/ExplainerNotebook.ipynb))
 
 ---
 
