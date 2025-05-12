@@ -14,9 +14,9 @@ Gun violence is not spread evenly across the five boroughs. Instead, it clusters
 
 The choropleth map below shows the total number of shootings recorded in each borough.
 
-Two boroughs stand out: **Brooklyn and the Bronx** consistently experience significantly more shootings than Manhattan, Queens, or Staten Island.
+Two boroughs stand out: **Brooklyn and the Bronx** consistently experience significantly more shootings than Manhattan, Queens, or Staten Island. Looking at NYC’s most recent population data ([NYC Planning, 2023](https://www.nyc.gov/assets/planning/download/pdf/planning-level/nyc-population/population-estimates/current-population-estimates-2023-June2024-release.pdf)), shootings don’t appear to follow borough population size in a straightforward way.
 
-This disparity goes beyond population differences. It reflects long-standing inequalities in areas like income, housing stability, policing, and access to community resources. These underlying conditions contribute to a higher risk of violence - and a higher burden placed on certain communities.
+This disparity likely reflects deeper, long-standing structural differences between boroughs. While we do not analyze the root causes directly in this project, factors such as economic inequality, housing conditions, and policing patterns are commonly discussed in broader research on urban violence.
 
 <iframe src="/final-project/assets/boroughmap.html" width="100%" height="600" frameborder="0"></iframe>
 

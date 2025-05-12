@@ -15,7 +15,7 @@ Are young men the primary perpetrators and victims? Do these incidents follow da
 
 Gun violence has long been a central issue in the United States, debated politically, studied socially, and felt personally. And in NYC, efforts to reduce shootings are ongoing. Programs like the [Office to Prevent Gun Violence](https://criminaljustice.cityofnewyork.us/programs/office-to-prevent-gun-violence/) work to address these issues on the ground. However, to prevent violence effectively, we also need to understand the patterns behind it.
 
-In this project, we dive into public [NYPD shooting incident data](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic), containing information about shootings in NYC from 2006-2024, to examine how gender, age, time, and location intersect in shaping the landscape of urban gun violence.
+In this project, we dive into public [NYPD shooting incident data](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8), containing information about shootings in NYC from 2006-2024, to examine how gender, age, time, and location intersect in shaping the landscape of urban gun violence.
 
 Our guiding question is:
 #### **“Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?”**
@@ -80,9 +80,10 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 
 ### References
 
-1. New York Police Department. *Shooting Incident Data (Historic)*. NYC Open Data. [https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic)
-2. New York Times (2021). *Shootings in NYC Doubled in 2020*. [https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html](https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html)
-3. Everytown for Gun Safety (2021). *Guns and Violence Against Women*. [https://everytownresearch.org/report/guns-and-violence-against-women/](https://everytownresearch.org/report/guns-and-violence-against-women/)
+1. New York City Police Department. (n.d.). *NYPD Shooting Incident Data (Historic)*. Retrieved from [https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
+2. New York Times (2021). *Shootings in NYC Doubled in 2020*. Retrieved from [https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html](https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html)
+3. Everytown for Gun Safety (2021). *Guns and Violence Against Women*. Retrieved from [https://everytownresearch.org/report/guns-and-violence-against-women/](https://everytownresearch.org/report/guns-and-violence-against-women/)
+4. NYC Planning (2023). *Current Population Estimates: June 2024 Release*. Retrieved from [https://www.nyc.gov/assets/planning/download/pdf/planning-level/nyc-population/population-estimates/current-population-estimates-2023-June2024-release.pdf](https://www.nyc.gov/assets/planning/download/pdf/planning-level/nyc-population/population-estimates/current-population-estimates-2023-June2024-release.pdf)
 
 
 ### Team members

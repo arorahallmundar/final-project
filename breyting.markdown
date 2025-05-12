@@ -113,3 +113,10 @@ By combining demographic and geographic perspectives, this visualization offers 
 ![Map of locations](/assets/agemeetplace.png)
 
 **Figure 11:** *Boxplots show the yearly distribution of shootings by perpetrator age group in each borough. Each box captures the typical range and variability within a group. Taller boxes and longer whiskers reflect greater volatility, while short, compressed boxes indicate stable, low-frequency trends. Compare across boroughs to identify local differences in patterns.*
+
+
+The choropleth map below shows the total number of shootings recorded in each borough.
+
+Two boroughs stand out: Brooklyn and the Bronx consistently experience significantly more shootings than Manhattan, Queens, or Staten Island. Looking at NYC’s most recent population data (NYC Planning, 2023), shootings don’t appear to follow borough population size in a straightforward way.
+
+This disparity likely reflects deeper, long-standing structural differences between boroughs. While we do not analyze the root causes directly in this project, factors such as economic inequality, housing conditions, and policing patterns are commonly discussed in broader research on urban violence.
