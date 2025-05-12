@@ -33,6 +33,12 @@ We have structured this page in a simple "click-through" format to guide you thr
 
 - Finally, the page will take you to the conclusion section, where we will cover what we learned through this project. For those who are too curious to navigate each chapter, the conclusion can also be found below.
 
+You can click the **"Start exploring"** button below to jump straight to the first section:
+
+<p style="text-align: center;">
+  <a href="{{ '/who' | relative_url }}" style="padding: 10px 20px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 5px;">Start exploring</a>
+</p>
+
 ---
 
 ## <a id="conclusions"></a> Conclusion: Who Shoots Whom in NYC?
