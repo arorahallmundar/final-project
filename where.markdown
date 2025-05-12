@@ -56,7 +56,7 @@ By combining geography and age group, we gain a richer understanding of how gun 
 
 ![Map of locations](/assets/agemeetplace.png)
 
-**Figure 11:** *This set of boxplots shows the yearly distribution of shootings for different age groups in each borough. Each box captures the typical range and spread within a group. Taller boxes and longer whiskers reflect greater volatility, while short, compressed boxes indicate stable, low-frequency trends. Compare across boroughs to identify local differences in patterns.**
+**Figure 11:** *This set of boxplots shows the yearly distribution of shootings for different age groups in each borough. Each box captures the typical range and spread within a group. Taller boxes and longer whiskers reflect greater volatility, while short, compressed boxes indicate stable, low-frequency trends. Compare across boroughs to identify local differences in patterns.*
 
 
 <p style="text-align: center;">
