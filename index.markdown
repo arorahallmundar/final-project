@@ -86,7 +86,7 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 ### Team members
 - Áróra Hallmundardóttir - s242693
 - Nanna Kristín Bjarnadóttir - s243949
-- Tinna Sól Björvinsdóttir -s242744
+- Tinna Sól Björvinsdóttir - s242744
 
 **Notebook:** [Link to Jupyter Notebook coming soon]
 
