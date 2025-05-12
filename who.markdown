@@ -61,5 +61,7 @@ One pattern is immediately clear: Men between the ages of 18 and 44 are the most
 
 This chart brings the central pattern of NYC gun violence into sharp focus: It is concentrated within a small and specific demographic.
 
-
+<p style="text-align: center;">
+  <a href="{{ '/when' | relative_url }}" style="padding: 10px 20px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 5px;">→ 2. When?</a>
+</p>
 
