@@ -49,11 +49,9 @@ Our main question was simple but important:
 **Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?**
 ### What We Found
 
-- **Men are at the center of gun violence in NYC**, making up over **95% of identified shooters** and nearly **90% of victims** in the data. This means that when a shooting occurs, it is almost always a man pulling the trigger, and usually, a man on the receiving end.
+- **Men are at the center of gun violence in NYC**, making up over **97% of identified shooters** and over **90% of victims** in the data. This means that when a shooting occurs, it is almost always a man pulling the trigger, and usually, a man on the receiving end.
 - The most frequent dynamic is **male-on-male violence**, highlighting that the issue is largely concentrated within a specific demographic group.
-- The two largest age groups are **18–24** and **25–44**. These groups are nearly equal in size and together they account for approximately **80% of all perpetrators** and around **75% of victims**. This reinforces the pattern of peer-to-peer gun violence among young adult men in NYC.
-
-
+- The two largest age groups are **18–24** and **25–44**. These groups are nearly equal in size and together they account for approximately **64% of all perpetrators** and around **81% of victims**. This reinforces the pattern of peer-to-peer gun violence among young adult men in NYC.
 - **Shootings happen mostly at night**, especially between 10 PM and 2 AM and this is especially true for younger age groups.
 - **Place matters**: the Bronx and Brooklyn see more incidents than other boroughs.
 - **There’s a seasonal rhythm**, with shootings peaking in the summer particularly among younger males.
