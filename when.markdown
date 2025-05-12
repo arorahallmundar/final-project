@@ -79,4 +79,6 @@ This approach could be a foundation for early warning systems, resource allocati
 
 This predictive modeling serves as a proof-of-concept that machine learning can contribute to understanding and potentially mitigating urban violence patterns over time.
 
-
+<p style="text-align: center;">
+  <a href="{{ '/where' | relative_url }}" style="padding: 10px 20px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 5px;">→ 3. Where?</a>
+</p>
