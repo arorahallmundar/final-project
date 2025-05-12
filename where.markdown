@@ -40,7 +40,7 @@ Where and when shootings happen go together and both are key to prevention.
 
 ### Where Age Meets Place: Borough level Shooting Patterns
 
-While total shootings per borough reveal where gun violence is most concentrated, they don't show *who* is most involved. To explore this, the boxplots in **Figure 11:** below visualize the **distribution of yearly shootings by perpetrator age group within each borough** of the city.
+While total shootings per borough reveal where gun violence is most concentrated, they don't show *who* is most involved. To explore this, the boxplots in **Figure 11** below visualize the **distribution of yearly shootings by perpetrator age group within each borough** of the city.
 
 Each subplot represents one borough and uses boxplots to show the yearly distribution of shootings for each age group. These plots summarize the median (center line) and variability, including the interquartile range (IQR), the spread of data (whiskers), and any outliers (dots). This format reveals not just how often certain age groups are involved, but how consistently or irregularly their involvement changes from year to year.
 

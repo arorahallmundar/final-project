@@ -55,8 +55,7 @@ Our main question was simple but important:
 - **Shootings happen mostly at night**, especially between 10 PM and 2 AM and this is especially true for younger age groups.
 - **Place matters**: the Bronx and Brooklyn see more incidents than other boroughs.
 - **There’s a seasonal rhythm**, with shootings peaking in the summer particularly among younger males.
-- **The COVID-19 pandemic disrupted previous trends** - shootings spiked in 2020 after years of decline.  
-  [Source: NYT, 2021](https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html)
+- **The COVID-19 pandemic disrupted previous trends** - shootings spiked in 2020 after years of decline. ([Source: NYT, 2021](https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html))
 
 These patterns show us that gun violence isn’t random. It follows rhythms, shaped by age, gender, time of day, the seasons, and where people live and move around. Understanding those patterns helps us ask better questions, and maybe even find better solutions.
 
@@ -82,7 +81,7 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 2. New York Times (2021). *Shootings in NYC Doubled in 2020*. Retrieved from [https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html](https://www.nytimes.com/2021/05/14/nyregion/shootings-nyc-covid.html)
 3. Everytown for Gun Safety (2021). *Guns and Violence Against Women*. Retrieved from [https://everytownresearch.org/report/guns-and-violence-against-women/](https://everytownresearch.org/report/guns-and-violence-against-women/)
 4. NYC Planning (2023). *Current Population Estimates: June 2024 Release*. Retrieved from [https://www.nyc.gov/assets/planning/download/pdf/planning-level/nyc-population/population-estimates/current-population-estimates-2023-June2024-release.pdf](https://www.nyc.gov/assets/planning/download/pdf/planning-level/nyc-population/population-estimates/current-population-estimates-2023-June2024-release.pdf)
-
+5. Mayor’s Office of Criminal Justice. (n.d.). *Office to Prevent Gun Violence*. Retrieved from [https://criminaljustice.cityofnewyork.us/programs/office-to-prevent-gun-violence/](https://criminaljustice.cityofnewyork.us/programs/office-to-prevent-gun-violence/)
 
 ### Team members
 - Áróra Hallmundardóttir - s242693
