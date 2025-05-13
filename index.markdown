@@ -88,7 +88,7 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 - Tinna Sól Björvinsdóttir - s242744
 
 
-**Explainer Notebook:** [Link to Jupyter Notebook in github](https://github.com/arorahallmundar/final-project/blob/635c982624a7feb7e28fce325c0205225eb8ede0/ExplainerNotebook.ipynb)
+**Explainer Notebook:** [Link to Jupyter Notebook in Github](https://github.com/arorahallmundar/final-project/blob/635c982624a7feb7e28fce325c0205225eb8ede0/ExplainerNotebook.ipynb)
 
 *Please note that the interactive visuals do not show in the github repository but they show up if you download and open it in VS Code*
 
