@@ -89,7 +89,7 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 - Tinna Sól Björvinsdóttir - s242744
 
 
-**Notebook:** [Link to Jupyter Notebook](https://nbviewer.org/github/arorahallmundar/final-project/blob/d9a3ac8fd99d847a909916bf48082b6aacf1e597/ExplainerNotebook.ipynb)
+**Notebook:** [Link to Jupyter Notebook](https://github.com/arorahallmundar/final-project/blob/635c982624a7feb7e28fce325c0205225eb8ede0/ExplainerNotebook.ipynb)
 
 ---
 
