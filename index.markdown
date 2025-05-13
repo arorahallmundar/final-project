@@ -20,8 +20,7 @@ In this project, we dive into public [NYPD shooting incident data](https://data.
 Our guiding question is:
 #### **“Who shoots whom in New York City, and how do patterns of age, gender, place, and time influence that dynamic?”**
 
-Through all sorts of visualizations, we aim to go beyond headlines and uncover the underlying structure of these events, not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness. For more behind the scenes of the development of this data story, please see our [explainer Jupyter Notebook](https://nbviewer.org/github/arorahallmundar/final-project/blob/d9a3ac8fd99d847a909916bf48082b6aacf1e597/ExplainerNotebook.ipynb)
-
+Through all sorts of visualizations, we aim to go beyond headlines and uncover the underlying structure of these events, not to sensationalize, but to support clearer understanding, smarter prevention, and stronger public awareness. For more behind the scenes of the development of this data story, please see our explainer Jupyter Notebook at the bottom of the page.
 ---
 ## Navigating through the website
 We have structured this page in a simple "click-through" format to guide you through it. When you have read through the introduction, simply click on each navigation button at the top of this webpage in correct order and you will follow our data story.
@@ -89,7 +88,7 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 - Tinna Sól Björvinsdóttir - s242744
 
 
-**Notebook:** [Link to Jupyter Notebook](https://github.com/arorahallmundar/final-project/blob/635c982624a7feb7e28fce325c0205225eb8ede0/ExplainerNotebook.ipynb)
+**Explainer Notebook:** [Link to Jupyter Notebook in github](https://github.com/arorahallmundar/final-project/blob/635c982624a7feb7e28fce325c0205225eb8ede0/ExplainerNotebook.ipynb)
 
 *Please note that the interactive visuals do not show in the github repository but they show up if you download and open it in VS Code*
 
