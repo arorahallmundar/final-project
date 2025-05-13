@@ -90,6 +90,8 @@ This kind of insight goes beyond surface-level stats, it helps pinpoint where re
 
 
 **Notebook:** [Link to Jupyter Notebook](https://github.com/arorahallmundar/final-project/blob/635c982624a7feb7e28fce325c0205225eb8ede0/ExplainerNotebook.ipynb)
+[Launch Notebook in Binder](https://mybinder.org/v2/gh/arorahallmundar/final-project/main?filepath=ExplainerNotebook.ipynb)
+
 *Please note that the interactive visuals do not show in the notebook viewer but they show up if you open it in VS Code*
 ---
 
